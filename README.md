@@ -22,7 +22,7 @@ Kendimi Frontend teknolojilerinde geliştirmeye odaklanıyorum. Çeşitli projel
 ## 🚀 Projelerim
 
 ### 🌟 **Öne Çıkan Projeler**
-1. [**Polonyum**](https://github.com/polatbrk/polatbrk)  
+1. [**polatbrk**](https://github.com/polatbrk/polatbrk)  
    Github Profil Projesi
 ---
 
